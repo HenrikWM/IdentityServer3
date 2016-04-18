@@ -513,6 +513,7 @@
       <LastGenOutput>T4resx.cs</LastGenOutput>
     </None>
     <None Include="Services\DefaultViewService\HttpAssets\app\app.less" />
+    <None Include="Services\DefaultViewService\HttpAssets\libs\angular\angular.min.js.map" />
     <None Include="Services\DefaultViewService\HttpAssets\libs\bootstrap\custom.less" />
     <EmbeddedResource Include="Resources\Scopes.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
